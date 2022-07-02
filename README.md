@@ -1,21 +1,51 @@
 <div>
-    <div>
-      <h1>Ei aqui! 👋🏾</h1>
 
-      <h2 align="left">Perfil</h2>
-      <h4>📚 Estudando TensorFlow | Modelos de Aprendizagem de Maquinas</h4>
-      <h4>📚 Estudando Frontend com Reactjs</h4>
+  <h1>Ei aqui! 👋🏾</h1><br/>
+  
+  <h2 align="left">Perfil</h2>
+  <h4>📚 Estudando TensorFlow | Modelos de Aprendizagem de Maquinas</h4>
+  <h4>📚 Estudando Frontend com Reactjs</h4><br/>
+  
+  <h2>📊 Github Status</h2>
+  <div >
+      <p align="center" >
+        <a href="https://github.com/smrenato?tab=repositories">
+        <img height="180 em" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=smrenato&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+        <img height="180 em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrenato&theme=dracula&layout=compact&langs_count=10" />
+        </a>
+      </p>
+  </div><br/>
+  
 
-    </div>
-
-
-    <div>
-        <h2 align="left" >Skills</h2>
-    </div>
-
-    <div>
-      <h2 align = "left"> Sobre mim</h1>
-      <h4> 📚 Estudante de engenharia de computação pela UFPB, atualmente IC aprendendo um pouco sobre  modelos de aprendizados de maquinas mais justos </h4> 
-    </div>
+  <h2 align = "left">Sobre mim</h2>
+  <h4> 🎓 Estudante de engenharia de computação pela UFPB, atualmente IC aprendendo um pouco sobre  modelos de aprendizagem de maquinas mais justos </h4><br/>
+  
+  <h2>Projetos</h2>
+   <div align="center">
+    <a href="https://github.com/Aszurar/pokedev">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=smrenato&theme=dracula&repo=smrenato" />
+    </a>
     
-  </div>
+ </div>
+  
+  <h2 align = "left">Skills</h2>
+    <div style="display: flex"><br>
+      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    </div><br/>
+    
+  <h2 align = "left">Contato e Redes Sociais</h2>
+  
+  <div> 
+ 	<a href="https://twitter.com/smrenato_" target="_blank"><img src="https://img.shields.io/twitter/follow/smrenato_?color=green&label=Twitter&logo=Twitter&style=for-the-badge" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/smrenatox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href ="mailto:renatosmx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+    
+</div>
