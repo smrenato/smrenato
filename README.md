@@ -1,5 +1,5 @@
-<div>
-  <p align="center" id="topo">
+<div id="topo">
+  <p align="center" >
     <img height="50%" width="80%" src ="https://github.com/smrenato/smrenato/raw/master/assets/bio.png"></img>
   </p><br/>
   
