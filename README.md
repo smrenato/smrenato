@@ -1,6 +1,14 @@
 <div>
 
-  <h1>Ei aqui! 👋🏾</h1><br/>
+  <h1 id="topo">Ei aqui! 👋🏾</h1><br/>
+  
+  <h3 align="center">
+    <a href="#sobre-mim">Sobre mim</a> &nbsp;|&nbsp;
+    <a href="#contato">Contato</a> &nbsp;|&nbsp;
+    <a href="#projetos">Projetos</a> &nbsp;|&nbsp;
+    <a href="#skills">Skills</a> 
+    
+  </h3><br/>
   
   <h2 align="left">Perfil</h2>
   <h4>📚 Estudando TensorFlow | Modelos de Aprendizagem de Maquinas</h4>
@@ -17,10 +25,10 @@
   </div><br/>
   
 
-  <h2 align = "left">Sobre mim</h2>
+  <h2 align = "left" id="sobre-mim"><a href="#topo">↖️</a> Sobre mim</h2>
   <h4> 🎓 Estudante de engenharia de computação pela UFPB, atualmente IC aprendendo um pouco sobre  modelos de aprendizagem de maquinas mais justos </h4><br/>
   
-  <h2>Projetos</h2>
+  <h2 id="projetos"><a href="#topo">↖️</a> Projetos</h2>
    <div align="center">
     <a href="https://github.com/Aszurar/pokedev">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=smrenato&theme=dracula&repo=react-frontend" />
@@ -28,7 +36,7 @@
     
  </div>
   
-  <h2 align = "left">Skills</h2>
+  <h2 align = "left" id="skills"><a href="#topo">↖️</a> Skills</h2>
     <div style="display: flex"><br>
       <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -40,7 +48,7 @@
       <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     </div><br/>
     
-  <h2 align = "left">Contato e Redes Sociais</h2>
+  <h2 align = "left" id="contato"><a href="#topo">↖️</a> Contato e Redes Sociais</h2>
   
   <div> 
  	<a href="https://twitter.com/smrenato_" target="_blank"><img src="https://img.shields.io/twitter/follow/smrenato_?color=green&label=Twitter&logo=Twitter&style=for-the-badge" target="_blank"></a> 
