@@ -1,8 +1,7 @@
 <div>
-  <p align="center" >
-    <img height="20%" width="40%" src ="https://github.com/smrenato/smrenato/raw/master/assets/bio.png"></img>
-  </p>
-  <h1 id="topo">Ei aqui! 👋🏾</h1><br/>
+  <p align="center" id="topo">
+    <img height="50%" width="80%" src ="https://github.com/smrenato/smrenato/raw/master/assets/bio.png"></img>
+  </p><br/>
   
   <h3 align="center">
     <a href="#sobre-mim">Sobre mim</a> &nbsp;|&nbsp;
