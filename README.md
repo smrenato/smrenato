@@ -23,7 +23,7 @@
   <h2>Projetos</h2>
    <div align="center">
     <a href="https://github.com/Aszurar/pokedev">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=smrenato&theme=dracula&repo=smrenato" />
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=smrenato&theme=dracula&repo=react-frontend" />
     </a>
     
  </div>
