@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+    <div>
+      <h1>Ei aqui! 👋🏾</h1>
 
-<!--
-**smrenato/smrenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      <h2 align="left">Perfil</h2>
+      <h4>📚 Estudando TensorFlow | Modelos de Aprendizagem de Maquinas</h4>
+      <h4>📚 Estudando Frontend com Reactjs</h4>
 
-Here are some ideas to get you started:
+    </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    <div>
+        <h2 align="left" >Skills</h2>
+    </div>
+
+    <div>
+      <h2 align = "left"> Sobre mim</h1>
+      <h4> 📚 Estudante de engenharia de computação pela UFPB, atualmente IC aprendendo um pouco sobre  modelos de aprendizados de maquinas mais justos </h4> 
+    </div>
+    
+  </div>
