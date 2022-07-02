@@ -56,7 +56,7 @@
   <div> 
  	<a href="https://twitter.com/smrenato_" target="_blank"><img src="https://img.shields.io/twitter/follow/smrenato_?color=green&label=Twitter&logo=Twitter&style=for-the-badge" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/smrenatox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href ="mailto:renatosmx@gmail.com"><img alt="renatosmx@gmail.com" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:renatosmx@gmail.com" target="_blank"></a>
+    <a href ="mailto:renatosmx@gmail.com"><img alt="renatosmx@gmail.com" src="https://img.shields.io/badge/-EMAIL | renatosmx@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:renatosmx@gmail.com" target="_blank"></a>
  </div>
     
 </div>
