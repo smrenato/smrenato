@@ -80,7 +80,7 @@ estatística.
 # 👾 [Profile stats](#👾-perfil)
 <div align="center">
     <a href="https://github.com/smrenato">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=smrenato&theme=radical&layout=compact&langs_count=10&card_width=500&custom_title=github.com/smrenato stats"/>
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=smrenato&theme=radical&layout=compact&langs_count=10&card_width=500&custom_title=github.com/smrenato+stats"/>
     </a>
 </div>
 
