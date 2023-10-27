@@ -72,7 +72,7 @@ estatística.
 
 &nbsp;
 # 📮 [Contato](#👾-perfil)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/smrenatox)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/smrenato_)
 [![linkedn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrenatox/)
 [![renatosmx@gmail.com](https://img.shields.io/badge/email-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:renatosmx@gmail.com)](mailto:user@example.com)
 
