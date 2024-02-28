@@ -8,39 +8,22 @@
 &nbsp;
 # 👾 Perfil
 ## [Sobre mim](#💡-sobre-mim) | [Contato](#📮-contato) | [Tecnologias](#💻-tecnologias-que-eu-estudo) | [Habilidades](#🤖-habilidades)
-### 📕 [Estudando Modelos de Aprendizagem de Maquina](https://smrenato.github.io/datascience-projects/)
-
-
+### 📕 [Estudando Modelos de Aprendizagem de Maquina]()
 ### 📕 [Visualização de dados e estatística]()
+### 📕 [Modelagem de Banco de dados com SQL]()
 
 &nbsp;
 # 💡 [Sobre mim](#👾-perfil)
 
-```python
 
-who_is_smrenato = str("""
-
-Olá! 👋🏾
-
-Meu nome é Renato, atualmente moro em João Pessoa, Paraíba. Sou uma pessoa esforçada e proativa, 
-gosto de expor minhas ideias e aprender com experiências, estou sempre buscando melhorar, 
-tenho uma paixão desde cedo pelo mundo da tecnologia, meu combustível sempre foi a curiosidade!
-
-Atualmente.
-
-Sou estudante de Engenharia de computação pela UFPB, no momento tenho me dedicado a me 
-aprofundar no campo de AI, compreendendo análise de dados, modelos de machine learning e 
-estatística.
-
-""")
- 
+## Olá! 👋🏾
+### Sou estudante de Engenharia de computação pela UFPB, no momento tenho me dedicado a me aprofundar no campo de AI, compreendendo análise de dados, modelos de machine learning e  estatística.
 
 
-```
 &nbsp;
 # ⚙️ [Projetos](#👾-perfil)
 ## 📌Modelos Machine learning
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smrenato&repo=datascience-projects&show_owner=true&theme=dracula)](https://github.com/smrenato/datascience-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smrenato&repo=ree&show_owner=true&theme=dracula)]()
 
 &nbsp;
 ## 📌  Visualização de dados
@@ -72,7 +55,6 @@ estatística.
 
 &nbsp;
 # 📮 [Contato](#👾-perfil)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/smrenato_)
 [![linkedn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrenatox/)
 [![renatosmx@gmail.com](https://img.shields.io/badge/email-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:renatosmx@gmail.com)](mailto:user@example.com)
 
