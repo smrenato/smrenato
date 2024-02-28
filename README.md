@@ -49,9 +49,7 @@
 ### Frameworks
 ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-9146F?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-9146F?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![SQLalchemy](https://img.shields.io/badge/SQLAlchemy-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![Mkdocs](https://img.shields.io/badge/Mkdocs-9146F?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000)
 
 &nbsp;
 # 📮 [Contato](#👾-perfil)
