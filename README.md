@@ -3,6 +3,9 @@
   <img src="assets/cover1.png" title="conver unknow artist" style="height=90%" > 
 </p>
 
+## 👾 Contact me via:
+- Linkedin: [in/smrenatox/](https://www.linkedin.com/in/smrenatox/)
+- Email: renatosmx@gmail.com
 
 ## 👾 Currently Learning
 - Tensorflow
