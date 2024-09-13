@@ -7,7 +7,7 @@
 - Linkedin: [in/smrenatox/](https://www.linkedin.com/in/smrenatox/)
 - Email: renatosmx@gmail.com
 
-## 👾 Currently Learning
+## 👾 Currently interested on
 - Tensorflow
 - Data visualization
 - Pipeline ETL
