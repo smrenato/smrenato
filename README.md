@@ -24,4 +24,4 @@ Currently. I'm a computer engineering student , and at the moment I'm studying A
 
 ## 👾 Projects
 - See my pinned repositories
-- for more go to [projects github page](https://smrenato.github.io/projects/)
+- For more go to [projects github page](https://smrenato.github.io/projects/)
