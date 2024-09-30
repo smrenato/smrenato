@@ -15,6 +15,13 @@
 ## 👾 About
 Currently. I'm a computer engineering student , and at the moment I'm studying AI, including data analysis, machine learning models and statistics and mathematics.
 
+#### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,md,git,docker,neovim" />
+  </a>
+</p>
+
 ## 👾 Profile stats
 <div align="center">
     <a href="https://github.com/smrenato">
