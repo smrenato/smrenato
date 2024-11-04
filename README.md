@@ -18,7 +18,7 @@ Currently. I'm a computer engineering student , and at the moment I'm studying A
 #### ⚙️ Skills
 <p align="center">
   <a href="https://smrenato.github.io/projects/">
-    <img src="https://skillicons.dev/icons?i=python,c,md,git,docker,neovim" />
+    <img src="https://skillicons.dev/icons?i=python,c,git,linux,bash" />
   </a>
 </p>
 
