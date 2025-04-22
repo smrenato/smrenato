@@ -4,8 +4,6 @@
 </p>
 
 ## 👾 Contact me via:
-- Linkedin: [in/smrenatox/](https://www.linkedin.com/in/smrenatox/)
-- Email: renatosmx@gmail.com
 
 ## 👾 Currently interested on
 - Tensorflow
@@ -18,7 +16,7 @@ Currently. I'm a computer engineering student , and at the moment I'm studying A
 #### ⚙️ Skills
 <p align="center">
   <a href="https://smrenato.github.io/projects/">
-    <img src="https://skillicons.dev/icons?i=python,c,git,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=python,rust,git,linux,bash" />
   </a>
 </p>
 
