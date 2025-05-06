@@ -1,19 +1,17 @@
-## hi there 👋🏿
+## Hi there! 👋🏿
 <p>
   <img src="assets/cover1.png" title="conver unknow artist" style="height=90%" > 
 </p>
 
-## 👾 Contact me via:
-
 ## 👾 Currently interested on
-- Tensorflow
-- Data visualization
-- Pipeline ETL
+- Machine learn and algorithms
+- Data visualization and Modeling
+- Data extraction and pipeline ETL
 
 ## 👾 About
 Currently. I'm a computer engineering student , and at the moment I'm studying AI, including data analysis, machine learning models and statistics and mathematics.
 
-#### ⚙️ Skills
+#### 👾 Skills
 <p align="center">
   <a href="https://smrenato.github.io/projects/">
     <img src="https://skillicons.dev/icons?i=python,rust,git,linux,bash" />
@@ -28,5 +26,5 @@ Currently. I'm a computer engineering student , and at the moment I'm studying A
 </div>
 
 ## 👾 Projects
-- See my pinned repositories
-- For more go to [projects github page](https://smrenato.github.io/projects/)
+- Check my pinned repositories.
+- Check more on [Projects](https://smrenato.github.io/projects/)
